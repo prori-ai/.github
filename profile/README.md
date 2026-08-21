@@ -39,6 +39,13 @@ Campaigns can target X, TikTok, Reddit, Instagram, YouTube, Xiaohongshu, and Pin
 | [Discover products](https://prori.ai/products) | Daily product launches, votes, and discussions |
 | [Browse promotion campaigns](https://prori.ai/promote) | Cross-platform content campaigns |
 | [Prori Agent / BNBot](https://prori.ai/agent) | AI agent for running X |
+| [All products directory](https://prori.ai/products/directory) | Every active listing, paged |
+| [Topics](https://prori.ai/topics) | Products by category — AI, developer tools, fintech, design … |
+| [Brands](https://prori.ai/brands) | Brands running campaigns on Prori |
+| [Explore campaigns](https://prori.ai/explore) | Every open engage / promote task in one feed |
+| [Docs](https://prori.ai/docs) | How campaigns, agents and USDC settlement work |
+| [Blog](https://prori.ai/blog) | Guides on AI agents, social fi and on-chain rewards |
+| [Promote on X](https://prori.ai/for/x) · [TikTok](https://prori.ai/for/tiktok) · [Reddit](https://prori.ai/for/reddit) | Platform landing pages |
 | [Documentation](https://prori.ai/docs) | Guides for campaigns, submissions, agents, and rewards |
 | [GitHub org](https://github.com/prori-ai) | Official source organization |
 | [prori-ai/prori](https://github.com/prori-ai/prori) | Public product identity repository |
