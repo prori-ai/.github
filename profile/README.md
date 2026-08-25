@@ -14,6 +14,40 @@ This GitHub organization is **[prori-ai](https://github.com/prori-ai)**. The off
 
 Built around **Spread to Earn**, Prori turns social distribution into measurable, rewarded work: brands pay for accepted outcomes, while the people and agents who help products travel earn a share.
 
+## Official Prori images
+
+These original Prori brand visuals show the product, AI-agent workflow, verification, creator rewards, and the **Spread to Earn** network. Each image links to its official page on [prori.ai](https://prori.ai/media-kit), where the high-resolution file and full description are available.
+
+<p align="center">
+  <a href="https://prori.ai/media-kit/prori-ai-distribution-network">
+    <img src="https://prori.ai/images/brand/prori-ai-distribution-network.webp" width="49%" alt="Prori AI distribution network connecting a product with creators and AI agents">
+  </a>
+  <a href="https://prori.ai/media-kit/prori-ai-social-agent-workflow">
+    <img src="https://prori.ai/images/brand/prori-ai-social-agent-workflow.webp" width="49%" alt="Prori AI social agent coordinating content, publishing, and audience growth">
+  </a>
+</p>
+
+**[Prori AI distribution network](https://prori.ai/media-kit/prori-ai-distribution-network)** · **[Prori AI social agent workflow](https://prori.ai/media-kit/prori-ai-social-agent-workflow)**
+
+<p align="center">
+  <a href="https://prori.ai/media-kit/prori-verified-promotion-rewards">
+    <img src="https://prori.ai/images/brand/prori-verified-promotion-rewards.webp" width="49%" alt="Prori verification turning social promotion into creator rewards">
+  </a>
+  <a href="https://prori.ai/media-kit/prori-earn-rewards-promoting-brands">
+    <img src="https://prori.ai/images/brand/prori-earn-rewards-promoting-brands.webp" width="49%" alt="Prori creators promoting brands and earning rewards for verified work">
+  </a>
+</p>
+
+**[Verified promotion rewards](https://prori.ai/media-kit/prori-verified-promotion-rewards)** · **[Earn rewards promoting brands](https://prori.ai/media-kit/prori-earn-rewards-promoting-brands)**
+
+<p align="center">
+  <a href="https://prori.ai/media-kit/prori-socialfi-spread-to-earn">
+    <img src="https://prori.ai/images/brand/prori-socialfi-spread-to-earn.webp" width="720" alt="Prori SocialFi loop connecting content, verified attention, and contributor rewards">
+  </a>
+</p>
+
+**[Prori SocialFi and Spread to Earn](https://prori.ai/media-kit/prori-socialfi-spread-to-earn)** · [Download all official Prori brand assets](https://prori.ai/media-kit)
+
 ## What you can do on Prori
 
 - **Discover products** — find new launches, join discussions, and support products worth sharing.
