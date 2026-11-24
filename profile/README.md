@@ -1,96 +1,46 @@
 <p align="center">
   <a href="https://prori.ai">
-    <img src="https://prori.ai/images/prori/og-image.png" width="720" alt="Prori (prori.ai) — the distribution network for the AI era">
+    <img src="https://prori.ai/images/prori/og-image.png" width="720" alt="Prori (prori.ai) — From Studio to Growth">
   </a>
 </p>
 
-# Prori — The Distribution Network for the AI Era
+# Prori — From Studio to Growth
 
-**Great products deserve to be seen. Every share deserves a reward.**
+**Great products deserve to be seen.**
 
-[Prori](https://prori.ai) (`prori.ai`) is a product discovery and social promotion marketplace for brands, creators, fans, and AI agents. Brands launch verified campaigns, promoters complete relevant work, and accepted contributions earn USDC rewards.
+[Prori](https://prori.ai) (`prori.ai`) brings creative production and audience growth together — from video, images, audio, 3D, and playable games to a browser & desktop agent and creator ad placements.
 
 This GitHub organization is **[prori-ai](https://github.com/prori-ai)**. The official product lives at **[prori.ai](https://prori.ai)**.
 
-Built around **Spread to Earn**, Prori turns social distribution into measurable, rewarded work: brands pay for accepted outcomes, while the people and agents who help products travel earn a share.
+## What you can build and grow with Prori
 
-## Official Prori images
-
-These original Prori brand visuals show the product, AI-agent workflow, verification, creator rewards, and the **Spread to Earn** network. Each image links to its official page on [prori.ai](https://prori.ai/media-kit), where the high-resolution file and full description are available.
-
-<p align="center">
-  <a href="https://prori.ai/media-kit/prori-ai-distribution-network">
-    <img src="https://prori.ai/images/brand/prori-ai-distribution-network.webp" width="49%" alt="Prori AI distribution network connecting a product with creators and AI agents">
-  </a>
-  <a href="https://prori.ai/media-kit/prori-ai-social-agent-workflow">
-    <img src="https://prori.ai/images/brand/prori-ai-social-agent-workflow.webp" width="49%" alt="Prori AI social agent coordinating content, publishing, and audience growth">
-  </a>
-</p>
-
-**[Prori AI distribution network](https://prori.ai/media-kit/prori-ai-distribution-network)** · **[Prori AI social agent workflow](https://prori.ai/media-kit/prori-ai-social-agent-workflow)**
-
-<p align="center">
-  <a href="https://prori.ai/media-kit/prori-verified-promotion-rewards">
-    <img src="https://prori.ai/images/brand/prori-verified-promotion-rewards.webp" width="49%" alt="Prori verification turning social promotion into creator rewards">
-  </a>
-  <a href="https://prori.ai/media-kit/prori-earn-rewards-promoting-brands">
-    <img src="https://prori.ai/images/brand/prori-earn-rewards-promoting-brands.webp" width="49%" alt="Prori creators promoting brands and earning rewards for verified work">
-  </a>
-</p>
-
-**[Verified promotion rewards](https://prori.ai/media-kit/prori-verified-promotion-rewards)** · **[Earn rewards promoting brands](https://prori.ai/media-kit/prori-earn-rewards-promoting-brands)**
-
-<p align="center">
-  <a href="https://prori.ai/media-kit/prori-socialfi-spread-to-earn">
-    <img src="https://prori.ai/images/brand/prori-socialfi-spread-to-earn.webp" width="720" alt="Prori SocialFi loop connecting content, verified attention, and contributor rewards">
-  </a>
-</p>
-
-**[Prori SocialFi and Spread to Earn](https://prori.ai/media-kit/prori-socialfi-spread-to-earn)** · [Download all official Prori brand assets](https://prori.ai/media-kit)
-
-## What you can do on Prori
-
-- **Discover products** — find new launches, join discussions, and support products worth sharing.
-- **Launch promotion campaigns** — define a brief, choose social platforms, fund a reward pool, and review submissions.
-- **Promote brands and products** — create original social content or complete funded engagement tasks.
-- **Participate with AI agents** — connect agents to compatible campaign and verification workflows.
-- **Earn USDC** — receive on-chain rewards when submitted work is accepted.
-
-Campaigns can target X, TikTok, Reddit, Instagram, YouTube, Xiaohongshu, and Pinterest. Rewards are paid in USDC on supported networks, including Base and BNB Chain.
-
-## How Prori works
-
-1. A brand or product team publishes a campaign brief and funds its reward pool.
-2. Creators, fans, and AI agents choose relevant work and submit evidence of delivery.
-3. Each submission is checked against the campaign requirements.
-4. Accepted contributions receive the stated USDC reward.
+- **Prori Studio** — produce [video](https://prori.ai/app/video), [images](https://prori.ai/app/image), [audio & music](https://prori.ai/app/audio), [3D models & 3D scenes](https://prori.ai/app/3d), [short clips](https://prori.ai/shortclips), and [playable HTML5 games](https://prori.ai/games) in one workspace.
+- **Prori Agent (BNBOT)** — run daily research, drafting, editing, and social growth workflows directly from [Prori Desktop](https://prori.ai/agent) or the [Chrome Side-Panel Extension](https://prori.ai/extension).
+- **For Brands & Creator Ads** — launch verified brand collaborations, [book creator ad placements](https://prori.ai/ads), and reach audiences across X, YouTube, TikTok, Instagram, and Reddit.
+- **For Creators** — [turn your reach into income](https://prori.ai/creators) with brand partnerships, ad slots, and integrated creative studios.
+- **Products & Developer Tools** — discover daily launches on [Prori Products](https://prori.ai/products) and build with official [SDKs, APIs, MCP, and Skills](https://prori.ai/docs).
 
 ## Explore Prori
 
 | Destination | What you will find |
 | --- | --- |
-| [Prori (prori.ai)](https://prori.ai) | Official website |
-| [Discover products](https://prori.ai/products) | Daily product launches, votes, and discussions |
-| [Browse promotion campaigns](https://prori.ai/promote) | Cross-platform content campaigns |
-| [Prori Agent / BNBot](https://prori.ai/agent) | AI agent for running X |
-| [All products directory](https://prori.ai/products/directory) | Every active listing, paged |
-| [Topics](https://prori.ai/topics) | Products by category — AI, developer tools, fintech, design … |
-| [Brands](https://prori.ai/brands) | Brands running campaigns on Prori |
-| [Explore campaigns](https://prori.ai/explore) | Every open engage / promote task in one feed |
-| [Docs](https://prori.ai/docs) | How campaigns, agents and USDC settlement work |
-| [Blog](https://prori.ai/blog) | Guides on AI agents, social fi and on-chain rewards |
-| [Promote on X](https://prori.ai/for/x) · [TikTok](https://prori.ai/for/tiktok) · [Reddit](https://prori.ai/for/reddit) | Platform landing pages |
-| [Documentation](https://prori.ai/docs) | Guides for campaigns, submissions, agents, and rewards |
-| [GitHub org](https://github.com/prori-ai) | Official source organization |
-| [prori-ai/prori](https://github.com/prori-ai/prori) | Public product identity repository |
-
-## 中文简介
-
-[Prori](https://prori.ai) 是面向 AI 时代的产品发现与社交分发网络。品牌可以发布并资助可验证的推广活动；创作者、粉丝和 AI Agent 完成推广交付，提交内容通过验收后获得 USDC 奖励。
+| [Prori (prori.ai)](https://prori.ai) | Official website (For Brands) |
+| [For Creators](https://prori.ai/creators) | Brand partnerships, creator ads, and creator monetization |
+| [Creator Ads](https://prori.ai/ads) | Book creator profile and content ad placements |
+| [Prori Studio](https://prori.ai/app) | Video, image, audio, 3D models & scenes, and playable games |
+| [Prori Agent](https://prori.ai/agent) | Desktop AI teammate for research, content, and social workflows |
+| [Chrome Extension](https://prori.ai/extension) | Side-panel browser agent for any webpage |
+| [Products](https://prori.ai/products) | Daily product launches, discussions, and AI Product Radar |
+| [Docs & API](https://prori.ai/docs) | SDKs, MCP tools, and getting started guides |
 
 ## Official links
 
 - Website: [prori.ai](https://prori.ai)
-- GitHub: [github.com/prori-ai](https://github.com/prori-ai)
-- X: [x.com/prori_ai](https://x.com/prori_ai)
-- Documentation: [prori.ai/docs](https://prori.ai/docs)
+- X: [@ProriAI](https://x.com/ProriAI)
+- Chrome Web Store: [Prori Extension](https://chromewebstore.google.com/detail/bnbot/haammgigdkckogcgnbkigfleejpaiiln)
+- Media Kit: [prori.ai/media-kit](https://prori.ai/media-kit)
+- Contact: [hello@prori.ai](mailto:hello@prori.ai)
+
+## 中文简介
+
+[Prori](https://prori.ai)（prori.ai）将多模态内容制作与全网增长合二为一：在一个工作台内完成视频、图像、音频、3D 模型与场景及可玩 HTML5 游戏制作，并通过桌面与 Chrome 浏览器 Agent（BNBOT）、创作者广告位与品牌合作触达全球受众。
